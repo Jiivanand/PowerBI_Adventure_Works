@@ -129,5 +129,5 @@ Dashboard Preview Screenshots are available in the Screenshots/ folder.
 
 ---
 
-Author Jiivanand
+Author: Jiivanand
 GitHub: https://github.com/Jiivanand
